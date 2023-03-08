@@ -1,0 +1,22 @@
+body{
+  background-image: url("../src/Components/image/tourism.jpg");
+  background-repeat: no-repeat;
+ 
+  background-position: center;
+  background-size: cover;
+}
+button
+{
+  background-color: rgb(255, 255, 255);
+ 
+  border: 2px solid rgb(128, 162, 90);
+  font-weight: bold;
+  color: black;
+  width:20%;
+  height:15%;
+  padding: 15px 10px;
+  margin-left: 100px;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+}
